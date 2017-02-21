@@ -1,0 +1,42 @@
+.leftAlign {
+	text-align: left;
+}
+
+.rightAlign{
+	text-align: right;
+}
+
+.centerAlign{
+	text-align: center;
+}
+
+.centerImg{
+	width:50%; 
+	margin-left: 25%;
+}
+
+.marginTop{
+	margin-top: 5px;
+}
+
+.marginBodyTop{
+	margin-top: 7%;
+}
+
+.colorFontRed{
+	color: black;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
+
+td {
+	font-style: bold;	
+}
